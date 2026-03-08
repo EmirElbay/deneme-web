@@ -1,0 +1,5 @@
+body { font-family: sans-serif; line-height: 1.6; background-color: #f4f4f4; color: #333; }
+header { background: #35424a; color: #ffffff; padding: 20px; text-align: center; }
+table { border-collapse: collapse; background: white; margin-bottom: 20px; }
+td { padding: 15px; }
+img { border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
